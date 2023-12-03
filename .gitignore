@@ -2,4 +2,3 @@ node_modules
 node.core
 package-lock.json
 booking_system_rollup
-public/js/bundle.js
